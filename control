@@ -1,0 +1,9 @@
+Package: com.danyl.keyboardlesscommandtab
+Name: KeyboardLessCommandTab
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Use iOS 9's CommandTab as an app switcher, without a keyboard.
+Maintainer: DanyL
+Author: DanyL
+Section: Tweaks
